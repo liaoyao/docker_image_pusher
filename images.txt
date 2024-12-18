@@ -13,7 +13,7 @@ rabbitmq:4.0.4-management
 rabbitmq:3.12.14-management
 rabbitmq:3.13.3-management
 
-kafka
+#kafka
 
 
 nacos-server:v2.4.3-slim
