@@ -7,7 +7,16 @@ nginx:1.26-alpine
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-mysql
-redis
-rabbitmq
+redis:7.2.5-alpine
+
+rabbitmq:4.0.4-management
+rabbitmq:3.12.14-management
+rabbitmq:3.13.3-management
+
 kafka
+
+
+nacos-server:v2.4.3-slim
+nacos-server:v2.3.2-slim
+nacos-server:v2.2.3-slim
+nacos-server:v1.4.7-slim
