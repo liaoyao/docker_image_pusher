@@ -16,7 +16,7 @@ rabbitmq:3.13.3-management
 #kafka
 
 
-nacos-server:v2.4.3-slim
-nacos-server:v2.3.2-slim
-nacos-server:v2.2.3-slim
-nacos-server:v1.4.7-slim
+nacos/nacos-server:v2.4.3-slim
+nacos/nacos-server:v2.3.2-slim
+nacos/nacos-server:v2.2.3-slim
+nacos/nacos-server:v1.4.7-slim
