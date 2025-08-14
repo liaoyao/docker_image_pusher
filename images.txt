@@ -1,6 +1,6 @@
 nginx:1.26-alpine
 nignx:1.26.3-alpine
-
+nignx:1.28.0-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
